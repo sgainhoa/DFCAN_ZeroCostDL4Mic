@@ -18,5 +18,5 @@ This notebook is based on the following paper:
 
 Evaluation and development of deep neural networks for image super-resolution in optical microscopy, by Chang Qiao, Di Li, Yuting Guo, Chong Liu, Tao Jiang, Qionghai Dai & Dong Li et al. in Nature Methods 2021, https://www.nature.com/articles/s41592-020-01048-5
 
-The source code of this notebook can be found in: Github
+The source code of this notebook can be found in: 
 [Source code](https://github.com/qc17-THU/DL-SR)
