@@ -12,7 +12,8 @@ Try it here
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hTBmj-F2fr50sA7XilvCsZsJ6g1W__Qx?usp=sharing) !
 
 
-This notebook is inspired from the Zero-Cost Deep-Learning to Enhance Microscopy project (ZeroCostDL4Mic) (https://github.com/HenriquesLab/DeepLearning_Collab/wiki) and was created by jointly developed by Ainhoa Serrano , Ignacio Arganda-Carreras and Roberto Santana Hermida.
+This notebook is inspired from the Zero-Cost Deep-Learning to Enhance Microscopy project (ZeroCostDL4Mic) (https://github.com/HenriquesLab/DeepLearning_Collab/wiki) and was created by jointly developed by [Ainhoa Serrano 
+](https://github.com/sgainhoa), [Ignacio Arganda-Carreras](https://sites.google.com/site/iargandacarreras/) and [Roberto Santana Hermida.](http://www.sc.ehu.es/ccwbayes/members/rsantana/)
 
 This notebook is based on the following paper:
 
