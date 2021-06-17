@@ -11,3 +11,12 @@ An example of a low resolution - high resolution pair:
 Try it here
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hTBmj-F2fr50sA7XilvCsZsJ6g1W__Qx?usp=sharing) !
 
+
+This notebook is inspired from the Zero-Cost Deep-Learning to Enhance Microscopy project (ZeroCostDL4Mic) (https://github.com/HenriquesLab/DeepLearning_Collab/wiki) and was created by jointly developed by Ainhoa Serrano , Ignacio Arganda-Carreras and Roberto Santana Hermida.
+
+This notebook is based on the following paper:
+
+Evaluation and development of deep neural networks for image super-resolution in optical microscopy, by Chang Qiao, Di Li, Yuting Guo, Chong Liu, Tao Jiang, Qionghai Dai & Dong Li et al. in Nature Methods 2021, https://www.nature.com/articles/s41592-020-01048-5
+
+The source code of this notebook can be found in: Github
+[Source code](https://github.com/qc17-THU/DL-SR)
